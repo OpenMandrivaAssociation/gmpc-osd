@@ -35,5 +35,5 @@ A xosd on screen display plugin for gmpc.
 
 %files
 %defattr(-,root,root)
-%{_datadir}/gmpc/plugins/osdplugin.la
-%{_datadir}/gmpc/plugins/osdplugin.so
+%{_libdir}/gmpc/plugins/osdplugin.la
+%{_libdir}/gmpc/plugins/osdplugin.so
