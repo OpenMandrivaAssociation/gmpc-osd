@@ -1,7 +1,7 @@
 Summary:	A xosd on screen display plugin for gmpc
 Name:		gmpc-osd
 Version:	0.18.0
-Release:	%mkrel 2
+Release:	3
 License:	GPLv2+
 Group:		Sound
 Url:		http://www.sarine.nl//xosd-on-screen-display
